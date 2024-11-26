@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hello, World! I'm Yanel 🌟
+
+Welcome to my GitHub space! 🚀 Here, you’ll find a collection of projects, ideas, and experiments reflecting my journey as a **Engineer** in **Mathematical Modeling** and my passion for **AI** and **Optimization**.  
+
+## ✨ About Me  
+
+- 🎓 **Education**: Pursuing a degree in **Mathematical Modeling and Numerical Simulation**.  
+- 💡 **Specialties**:  
+  - Optimization 📈  
+  - Machine Learning 🤖  
+  - Numerical Computation 📊
+  - Statistical Analysis
+  - Fullstack Developper
+
+## 🛠️ Technologies  
+
+Here are some tools and languages I work with regularly:  
+
+- **Programming**: Python 🐍, Matlab, R, JavaScript 🌐, TypeScript 🚀  
+- **Frameworks**: Django, Next.js ⚛️, NodeJs 
+- **Data**: NumPy 📐, Pandas 🐼, Matplotlib 📈, Pytorch
+- **Others**: MySQL, Docker 🐳, Material-UI 🎨  
+
+## 🌍 Let's Connect!  
+
+Feel free to reach out:  
+
+- 🐦 [Twitter](https://twitter.com/yourusername)  
+- 💼 [LinkedIn](www.linkedin.com/in/yanel-aïna-877b18246)  
+- 📧 Email: [sobathoyanel04@gmail.com](mailto:sobathoyanel04@gmail.com)  
+
+---
+
+✨ Keep exploring, learning, and building. The world needs your ideas! 🌟  
+- 📫 How to reach me: sobathoyanel04@gmail.com |  _Whatsapp_ : +2290166384173
