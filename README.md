@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello, World! I'm Yanel 🌟
+# 👋 Hello, World! I'm Yanel 🌟
 
 Welcome to my GitHub space! 🚀 Here, you’ll find a collection of projects, ideas, and experiments reflecting my journey as a **Engineer** in **Mathematical Modeling** and my passion for **AI** and **Optimization**.  
 
-### ✨ About Me  
+## ✨ About Me  
 
 - 🎓 **Education**: Pursuing a degree in **Mathematical Modeling and Numerical Simulation**.  
 - 💡 **Specialties**:  
@@ -29,7 +29,7 @@ Welcome to my GitHub space! 🚀 Here, you’ll find a collection of projects, i
   - Statistical Analysis
   - Fullstack Developper
 
-### 🛠️ Technologies  
+## 🛠️ Technologies  
 
 Here are some tools and languages I work with regularly:  
 
@@ -38,7 +38,7 @@ Here are some tools and languages I work with regularly:
 - **Data**: NumPy 📐, Pandas 🐼, Matplotlib 📈, Pytorch
 - **Others**: MySQL, Docker 🐳, Material-UI 🎨  
 
-### 🌍 Let's Connect!  
+## 🌍 Let's Connect!  
 
 Feel free to reach out:  
 
