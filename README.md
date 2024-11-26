@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Yanelaina/Yanelaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, World! I'm Yanel 🌟
+## 👋 Hello, World! I'm Yanel 🌟
 
 Welcome to my GitHub space! 🚀 Here, you’ll find a collection of projects, ideas, and experiments reflecting my journey as a **Engineer** in **Mathematical Modeling** and my passion for **AI** and **Optimization**.  
 
